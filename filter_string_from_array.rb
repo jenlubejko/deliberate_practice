@@ -1,4 +1,4 @@
-# Filter strings from an array.
+# Filter string values from an array.
 array = [10, "dog", "cat", 9, 10, "duck"]
 array.each do |value|
   if value.is_a? String
