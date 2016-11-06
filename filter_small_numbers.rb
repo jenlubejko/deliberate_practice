@@ -6,4 +6,4 @@ numbers.each do |number|
     small_numbers << number
   end
 end 
-print small_numbers
+p small_numbers
